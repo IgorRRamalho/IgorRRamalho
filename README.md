@@ -1,6 +1,5 @@
 # 💫 About Me:
-Tenho 19 anos, sou um estudante da área da tecnologia com ótimo desempenho acadêmico,muita disposição para o aprendizado e sempre disposto a enfrentar novos desafios e aprimorar minhas habilidades. Com grande entusiasmo, estou buscando oportunidades para aprender e aprimorar minhas habilidades e conhecimentos nesta área com o objetivo de virar um Desenvolvedor Full Stack.<br><br><br><br>
-
+Tenho 19 anos, sou um estudante da área da tecnologia com ótimo desempenho acadêmico,muita disposição para o aprendizado e sempre disposto a enfrentar novos desafios e aprimorar minhas habilidades. Com grande entusiasmo, estou buscando oportunidades para aprender e aprimorar minhas habilidades e conhecimentos nesta área com o objetivo de virar um Desenvolvedor Full Stack.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fy_igor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/igorrosa-ramalho) 

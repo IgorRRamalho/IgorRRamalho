@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tenho 21 anos, sou um estudante da área da tecnologia com ótimo desempenho acadêmico,muita disposição para o aprendizado e sempre disposto a enfrentar novos desafios e aprimorar minhas habilidades. Com grande entusiasmo, estou buscando oportunidades para aprender e aprimorar minhas habilidades e conhecimentos nesta área com o objetivo de virar um Desenvolvedor Full Stack.<br><br>
+Tenho 21 anos e atuo na área de tecnologia, com experiência no desenvolvimento e manutenção de aplicações web. Possuo forte interesse em desenvolvimento Full Stack, com foco em tecnologias como .NET, React e Next.js. Sou uma pessoa comprometida com aprendizado contínuo, resolução de problemas e evolução técnica, sempre buscando novos desafios que contribuam para meu crescimento profissional e para a entrega de soluções de qualidade.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fy_igor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/igorrosa-ramalho) 
